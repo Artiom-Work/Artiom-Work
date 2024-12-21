@@ -56,7 +56,7 @@ $\color{lightgreen}\textbf{HTML-верстальщик}$
 
 📧 Связаться со мной можно по почте[ artiom.mezheynikov.work@gmail.com](mailto:artiom.mezheynikov.work@gmail.com)
 
-📞 Связаться со мной можно по телефону <a href="tel:+375445821803">+375 (44) 582-18-03</a>
+📞 Связаться со мной можно по телефону [+375 (44) 582-18-03](tel:+375445821803)
 
 <img src="https://cdn-icons-png.flaticon.com/128/15466/15466168.png" width='18' height="18"> Наша группа на [GitHub](https://github.com/D-E-M-A-HTML-developers)
 
