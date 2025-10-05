@@ -6,7 +6,7 @@ $\color{lightgreen}\textbf{HTML-верстальщик}$
 
 🌍  Я живу в Республике Беларусь, город Гомель.
 
-🤷 Мне 32 года. Среднее образование.
+🤷 Мне 33 года. Среднее образование.
 
 ⌛ Совмещая с основной деятельностью, занимаюсь вёрсткой пару лет.
 
@@ -24,13 +24,13 @@ $\color{lightgreen}\textbf{HTML-верстальщик}$
 
 #### $\color{lime}\Large\textbf{Заказы на фриланс-платформе}$
 
-|                 **Название**                 |      **Тип**      |                                       **GitHub репозиторий**                                        |                                   **Сылка на работу**                                   |
-| :------------------------------------------: | :---------------: | :-------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: |
-|      $\color{darkred}\textsf{Dawinchi}$      |   Две страницы    |              [Подробнее](https://github.com/Artiom-Work/DAWINCHI/blob/main/README.md)               |                         [Пример](https://dawinchiwakepark.ru/)                          |
-|     $\color{darkred}\textsf{W-project}$      |   Одна страница   |              [Подробнее](https://github.com/Artiom-Work/W-project/blob/main/README.md)              |                   [Пример](https://artiom-work.github.io/W-project/)                    |
-|     $\color{darkred}\textsf{Q-project}$      |   Одна страница   |              [Подробнее](https://github.com/Artiom-Work/Q-project/blob/main/README.md)              |                   [Пример](https://artiom-work.github.io/Q-project/)                    |
-| $\color{darkred}\textsf{ohShitMyCodeBroken}$ | Несколько страниц | [Описание временно недоступно](https://github.com/Artiom-Work/broken-game-code/blob/main/README.md) | [Пример временно недоступен](https://artiom-work.github.io/broken-game-code/index.html) |
-|      $\color{darkred}\textsf{ONYXbot}$       |   Одна страница   |                [Подробнее](https://github.com/Artiom-Work/Onyx/blob/main/README.md)                 |                      [Пример](https://artiom-work.github.io/Onyx/)                      |
+|                 **Название**                 |      **Тип**      |                              **GitHub репозиторий**                              |                         **Сылка на работу**                         |
+| :------------------------------------------: | :---------------: | :------------------------------------------------------------------------------: | :-----------------------------------------------------------------: |
+|      $\color{darkred}\textsf{Dawinchi}$      |   Две страницы    |     [Подробнее](https://github.com/Artiom-Work/DAWINCHI/blob/main/README.md)     |               [Пример](https://dawinchiwakepark.ru/)                |
+|     $\color{darkred}\textsf{W-project}$      |   Одна страница   |    [Подробнее](https://github.com/Artiom-Work/W-project/blob/main/README.md)     |         [Пример](https://artiom-work.github.io/W-project/)          |
+|     $\color{darkred}\textsf{Q-project}$      |   Одна страница   |    [Подробнее](https://github.com/Artiom-Work/Q-project/blob/main/README.md)     |         [Пример](https://artiom-work.github.io/Q-project/)          |
+| $\color{darkred}\textsf{ohShitMyCodeBroken}$ | Несколько страниц | [Подробнее](https://github.com/Artiom-Work/broken-game-code/blob/main/README.md) | [Пример](https://artiom-work.github.io/broken-game-code/index.html) |
+|      $\color{darkred}\textsf{ONYXbot}$       |   Одна страница   |       [Подробнее](https://github.com/Artiom-Work/Onyx/blob/main/README.md)       |            [Пример](https://artiom-work.github.io/Onyx/)            |
 
 #### $\color{lightgreen}\Large\textbf{Учебные работы в команде}$
 
