@@ -8,19 +8,29 @@ $\color{lightgreen}\textbf{HTML-верстальщик}$
 
 🤷 Мне 33 года. Среднее образование.
 
-⌛ Совмещая с основной деятельностью, занимаюсь вёрсткой пару лет.
+⌛ Занимаюсь классической вёрсткой страниц на HTML5 и CSS3 уже несколько лет.
 
-🔥 Нравится работать с одностраничными и многостраничными сайтами или их частями из макетов в форматах: Figma, PSD.
+🔥 Нравится работать с одностраничными и многостраничными сайтами или их частями из макетов в формате figma.
 
-🔨 Неплохо разбираюсь в формировании HTML структуры страницы и её изменении в CSS . Могу добавить несложную функциональность на страницу с помощью JS.
+🔨 Неплохо разбираюсь в формировании HTML структуры страницы и её изменении в CSS . Могу добавить несложную функциональность на страницу с помощью JS. Знаком с некоторыми JS и CSS библиотеками и вспомогательными технологиями.
 
 🏅 После обучения на курсах участвовал в формировании группы из учащихся для самостоятельной отработки навыков вёрстки, с которой занимался более года .
+
+🚀 Позже, успешно попробовал свои силы на фриланс-бирже, после чего получил предложение о работе над большим проектом в качестве верстальщика, чем и занимаюсь в данное время.
 
 🎯 Стремлюсь научиться верстать сложные, удобные и красивые страницы для каждого человека.
 
 ---
 
-### $\color{lightblue}\Large\textbf{Примеры вёрстки}$
+### $\color{Lightgreen}\Large\textbf{Примеры вёрстки}$
+
+#### $\color{lightblue}\Large\textbf{В разработке в данный момент}$
+
+|                   **Название**                   |         **Тип**         |                           **GitHub репозиторий**                           |                         **Сылка на работу**                         |
+| :----------------------------------------------: | :---------------------: | :------------------------------------------------------------------------: | :-----------------------------------------------------------------: |
+|          $\color{darkred}\textsf{2ATM}$          | Многостраничный landing |    [Подробнее](https://github.com/Artiom-Work/2ATM/blob/main/README.md)    |                     [Пример](https://2atm.ru/)                      |
+| $\color{darkred}\textsf{2ATM(запись на услуги)}$ |    Несколько страниц    | [Подробнее](https://github.com/Artiom-Work/entry-2ATM/blob/main/README.md) |    [Пример](https://artiom-work.github.io/entry-2ATM/first.html)    |
+|         $\color{darkred}\textsf{PITPOS}$         |  Многостраничный сайт   |  [Подробнее](https://github.com/Artiom-Work/pit-pos/blob/main/README.md)   | [Пример](https://artiom-work.github.io/pit-pos/clients-legals.html) |
 
 #### $\color{lime}\Large\textbf{Заказы на фриланс-платформе}$
 
@@ -45,6 +55,7 @@ $\color{lightgreen}\textbf{HTML-верстальщик}$
 
 |                  **Название**                  |      **Тип**      |                                **GitHub репозиторий**                                |                      **Сылка на работу**                      |
 | :--------------------------------------------: | :---------------: | :----------------------------------------------------------------------------------: | :-----------------------------------------------------------: |
+|      $\color{darkred}\textsf{FutureTech}$      |   Одна страница   |     [Подробнее](https://github.com/Artiom-Work/future-tech/blob/main/README.md)      |     [Пример](https://artiom-work.github.io/future-tech/)      |
 |      $\color{darkred}\textsf{METAVERSE}$       |   Одна страница   |        [Подробнее](https://github.com/Artiom-Work/MetaV/blob/main/README.md)         |        [Пример](https://artiom-work.github.io/MetaV/)         |
 |  $\color{darkred}\textsf{FRESH-HARVEST-BOX}$   |   Landing page    |  [Подробнее](https://github.com/Artiom-Work/fresh-harvest-box/blob/main/README.md)   |  [Пример](https://artiom-work.github.io/fresh-harvest-box/)   |
 |       $\color{darkred}\textsf{HARIZMA}$        |   Landing page    |       [Подробнее](https://github.com/Artiom-Work/HARIZMA/blob/main/README.md)        |       [Пример](https://artiom-work.github.io/HARIZMA/)        |
@@ -63,8 +74,7 @@ $\color{lightgreen}\textbf{HTML-верстальщик}$
 ### $\color{lightblue}\Large\textbf{Навыки}$
 
 <p text-align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="https://vite.dev/" target="_blank" rel="noreferrer"><img src="./vite-icon.svg" width="36" height="36" alt="Vite" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="./node-js-icon.svg" width="36" height="36" alt="Node JS" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="./jquery-icon.svg" width="36" height="36" alt="Jquery" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://vite.dev/" target="_blank" rel="noreferrer"><img src="./vite-icon.svg" width="36" height="36" alt="Vite" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="./tailwind-icon.svg" width="36" height="36" alt="Tailwind CSS" /></a>
 </p>
 
 ---
@@ -92,6 +102,5 @@ $\color{lightgreen}\textbf{HTML-верстальщик}$
 ### $\color{lightblue}\Large\textbf{Социальные сети}$
 
 <p>
-<a href="https://github.com/Artiom-Work" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/128/527/527589.png" width="32" height="32" /></a><a href="https://vk.com/id409841216" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/128/372/372414.png" width="32" height="32" /></a><a href="https://www.instagram.com/artiommezheinikov/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/128/372/372395.png" width="32" height="32" /></a>
-<a href="https://t.me/ArtiomMezheynikov" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/128/372/372410.png" width="32" height="32" /></a>
+<a href="https://github.com/Artiom-Work" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/128/527/527589.png" width="32" height="32" /></a><a href="https://vk.com/id409841216" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/128/372/372414.png" width="32" height="32" /></a><a href="https://www.instagram.com/artiommezheinikov/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/128/372/372395.png" width="32" height="32" /></a><a href="https://t.me/ArtiomMezheynikov" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/128/372/372410.png" width="32" height="32" /></a>
 </p>
